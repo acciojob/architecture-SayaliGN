@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+.imageContainer{
+	width:1100px;
+}
+.img{
+	width:200;
+}
+.dis{
+	width:600;
+}
